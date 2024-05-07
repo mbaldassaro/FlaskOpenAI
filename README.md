@@ -7,3 +7,4 @@ To run locally:
 3. Install the necessary packages using the requirements.txt file: pip install -r requirements.txt
 4. Run the app.py script and open local host 5000: python app.py
 
+For the code to work, you will need to obtain an Open AI API key here (https://openai.com/index/openai-api)
