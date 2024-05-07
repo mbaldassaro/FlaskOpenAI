@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Preview</title>
+</head>
+<body>
+    <h1>Data Preview</h1>
+    <div>
+        {{ table|safe }}
+    </div>
+    <a href="{{ url_for('interact_with_data') }}">Proceed to Interact with G
+
+<!--        
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Preview</title>
+</head>
+<body>
+    <h1>Data Preview</h1>
+    {% if preview_html %}
+        {{ preview_html | safe }}
+    {% else %}
+        <p>No data available.</p>
+    {% endif %}
+    <form action="/gpt" method="post">
+        <label for="prompt">Enter your prompt:</label><br>
+        <input type="text" id="prompt" name="prompt" required><br><br>
+        <input type="submit" value="Generate Response">
+    </form>
+</body>
+</html>
+-->

@@ -1,0 +1,10 @@
+/env
+.env
+odatafeeder.py
+.vscode
+bulk-odk.py
+tester.ipynb
+OdataWorker.ipynb
+Templates/index.html
+Templates/gpt.html
+LEON2023RD1Opening_Data.csv

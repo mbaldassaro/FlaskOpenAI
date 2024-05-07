@@ -1,0 +1,11 @@
+ID,County,Opening_Time,Opening_Empty,Opening_Staff,Opening_FemaleStaff,Opening_Ballots,Opening_Registered,Opening_Security,Opening_Observers,Opening_PartyAgents,Opening_Missing
+30265-1,Montserrado,At_8,yes,5,2,550,510,yes,ecc,cdc lpp up cpp,none
+30043-1,Montserrado,At_8,yes,5,1,550,500,yes,none,cdc cpp lpp up,none
+6016-1,Bong,At_8,yes,4,2,550,500,yes,none,none,none
+9124-4,Grand Bassa,At_8,yes,5,3,550,284,yes,ecc liberian_council_of_churches,all,none
+33081-4,Nimba,At_8,yes,5,3,550,272,yes,ecc,alcop all cdc cpp dna dppl gdm lfm lfp linu lpp ind_morris ind_kromah volt up rnc rebuilders nlp mpc lrp,none
+30487-2,Montserrado,At_8,yes,5,4,550,400,yes,ecc liberian_council_of_churches mandingo_national_caucus muslim_council,cdc,po_journal
+6118-1,Bong,At_8,yes,5,2,550,500,yes,none,alcop all cdc cpp dna dppl gdm lfm lfp linu lpp lrp mpc nlp rebuilders rnc up,none
+30270-1,Montserrado,At_8,yes,5,3,550,350,yes,none,cpp,none
+9129-2,Grand Bassa,At_8,yes,5,2,550,510,yes,ecc liberian_council_of_churches,up ind_kromah cpp cdc,none
+9130-3,Grand Bassa,At_8,yes,5,3,550,510,yes,none,cpp up cdc,none

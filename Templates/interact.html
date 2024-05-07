@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Interact with Data</title>
+</head>
+<body>
+    <h1>Interact with GPT-3</h1>
+    <form action="" method="post">
+        <p>Enter your query: <input type="text" name="query" size="50"></p>
+        <p><input type="submit" value="Ask GPT-3"></p>
+    </form>
+    {% if answer %}
+    <h2>Response:</h2>
+    <p>{{ answer }}</p>
+    {% endif %}
+</body>
+</html>
